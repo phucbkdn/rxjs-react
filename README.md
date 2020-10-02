@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+RxJS with React Hooks for state management
+Using RxJS to connect React component and management state
 
 ## Available Scripts
 
